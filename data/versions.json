@@ -1,0 +1,995 @@
+{
+ "country": "RU-SA",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2015-11-30",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "e76c26948b1d5192963bd545511d46d6ee397e7f13d4a0384cf5212204dc8e80"
+    },
+    {
+     "from": "2015-12-04",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3c9c945e1579b2733def13b2b005b9b4cb0d61c1aa932d73ea2f87305218ad67"
+    },
+    {
+     "from": "2015-12-14",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ebcc9a3fe62028b732fc197e7a9fec320c065425a7cdcdb9b989c3baa6882821"
+    },
+    {
+     "from": "2015-12-28",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "2e1b32a14bd6435a0e816504c62372f5e556c3f70286531791a42015b959771a"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "f6546ad8600b64ca477a27d7af68c86dedbbf13f90bf94cc86db4e88642fce58"
+    },
+    {
+     "from": "2015-12-30",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "bd7f4250334f8a81875e0680ad4b9581d7fd8cf63546a89935054f851c63f38c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9e7ed4fe2110f097ab18372c90f1d8bac7d606ba594e0b63956806a6e848eef4"
+    },
+    {
+     "from": "2016-03-18",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3cb4d64487b366799b882bfc7b3607a3ef91556e4681b1265060a212f7c8a9d7"
+    },
+    {
+     "from": "2016-03-24",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "0f91fbebeb3b4c2c0a440b308af1cd6002836271f59bc2fe75424e42f63d2bc3"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "e0580e2de624ed1750dce19d7cbfdc96ceca4f4b56c2cd1bcc79abfe435dc26f"
+    },
+    {
+     "from": "2016-05-18",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ab867eba9a3e789b7e90b8c0b1015734714db5e17b8f07948af2fea84258be11"
+    },
+    {
+     "from": "2016-05-19",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "c49fc44d2d7710779858073a3b645b80b0fea1773fa7e66089b9b22383dd439d"
+    },
+    {
+     "from": "2016-06-23",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "dc4d4a0e6e939e7020c7efcafa9cc06aa9b26a5987ce30ed2e65a45db4e74f63"
+    },
+    {
+     "from": "2016-07-07",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "5a53e5b2dbcd0f815835ecbea8452d35d971143653c2a73fdefb1e640d3e26ab"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "2359d343dec3bf77eef3abc5351775300f4d23e920199c2d0ebe90755fafc65c"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 138,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9e79f847b2d10712896afee7ed85701f7b08c49fb226c352def99f07a40fdebf"
+    },
+    {
+     "from": "2016-11-09",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "08996824a2ea3166da3ed872342cb5dd471dc8f45031c70118b44c4e7edf78d1"
+    },
+    {
+     "from": "2016-11-10",
+     "units": 157,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "6d78b412729ed5356dce667f125980c3aedc763015f88ad25e40e0c744f64af2"
+    },
+    {
+     "from": "2016-11-11",
+     "units": 176,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "deb351f98b39c1798321f9380bf290c6049da64b04896ffb4c3104a0f799fd1d"
+    },
+    {
+     "from": "2016-11-24",
+     "units": 178,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b07d305a107168fb845086c26ecec68e02c6471aabe7440652c3ab256ccbed88"
+    },
+    {
+     "from": "2016-12-13",
+     "units": 189,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "84a6e3cd143e5a06aaffbb26ff9d3272fc7a55d5217d9db034b2ef64719661da"
+    },
+    {
+     "from": "2016-12-28",
+     "units": 221,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "051100e62afbc0719878186d954f787f553f9f2513f8b4c778e6046b44dc5eb6"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 222,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "76b27b2f6cf55199c5c02eb63b529019929dcc8fbdafab31fe693c08e9fff7d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ce8ef25477560002d39adafadf4a6c52e730da3d071abcf14731f7e065a3cc28"
+    },
+    {
+     "from": "2017-03-14",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "8a60190d53611e049923cb15cec104986b38099ce28fa4c5330dd8a514bce4d8"
+    },
+    {
+     "from": "2017-03-15",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "fa748ed40ff4d20296ac34e80e4b48751612c797474112deed5692af2b93762b"
+    },
+    {
+     "from": "2017-03-22",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "4f0dfbea7b6770881570a3f74d1ea16942e23f3b6e10519a7947b8beec9ceadc"
+    },
+    {
+     "from": "2017-05-16",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "0a5116714663b6551973c7261cdc64b13c7310f4b569201307a26c99ae68117e"
+    },
+    {
+     "from": "2017-06-05",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "831c95f5a3d48c542c422f6820eeaa1357656bbc1cc32a943d6943896fb6b233"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "beafccdfec630bbc6ec2da6e6a68a4d5bef039ddd7e7b9e9dbc8dc5bccb04c1c"
+    },
+    {
+     "from": "2017-06-07",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "05f00cfbcfd1aba69c67a6580a189637d36e4ed4daf518f6e72ce010a2adfb2c"
+    },
+    {
+     "from": "2017-06-08",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "6365bed8928caddb6c695cc314b38e0dffbc3f5df125cabf24756dd4dbceb54e"
+    },
+    {
+     "from": "2017-07-14",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a12a9e203f116c091c191ff62f048508c6e57855dd5690dd0ad2f6313a0fb603"
+    },
+    {
+     "from": "2017-11-02",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "5030aa4d625fb060b79c46da51acaadced8f267d977860521017ec16ce75fbb2"
+    },
+    {
+     "from": "2017-11-15",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "25b4ae3ebcc440e3962b8b7bb95a75952c904158a635b68fa81ca278a736cf02"
+    },
+    {
+     "from": "2017-11-28",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a3e44ee97aabce6626a3cae16d55fc8c717030e0c67b1fb420f2abaec5f9980e"
+    },
+    {
+     "from": "2017-12-06",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "8d182a9ffb7b36750eeee7988c604e674284ea4aec139e268b3ac5fa02d6a05b"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b774d4a7fb25998708ec9ee0a4e32665ed8572886cf231c0c07dd2e170d4e801"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 161,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "25db1e7c5fcd8dfdab9adb4a40a44df2affcf2282bd878a94ebbd1fde0eeea5a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b200901dba21916c46da4f488a55da1bb669ab86a2ef53e2a719b166df4084bd"
+    },
+    {
+     "from": "2018-03-13",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "d37aa6c66d0b87658aed9b524233afa83ee7b797fc9243642443901ac12307d7"
+    },
+    {
+     "from": "2018-05-15",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3e7bd0a603e14a9853a3279f675b608347dc44ad62c6d19e38cfde748eee002e"
+    },
+    {
+     "from": "2018-05-25",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "f6ae4edadcc22118b24157e0bcd9057164ab87386487cae0f57a11baafd17239"
+    },
+    {
+     "from": "2018-05-31",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "2360d77ebcbdd6b5d527fa711ede22adb221c57d5540e5fcdf42a5241ce54aa2"
+    },
+    {
+     "from": "2018-06-08",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "1a7fe5e39db5dad64bd0e7853c21ebc20bf60170abc92a6fe7efecf76742b7c5"
+    },
+    {
+     "from": "2018-06-25",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "2876d5eedc6fb00859e172cf186c9107d31b71a44e17f933415962b811f39694"
+    },
+    {
+     "from": "2018-07-10",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a1e64a54fe0c0c997eb54a6d83d4dabc73238057312dff529cb0fe9db58f5c32"
+    },
+    {
+     "from": "2018-07-16",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "40d3d74437a762be92ad90fb797adb06ec3f136ef37d13f6b4c985d68f2d6aea"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "bd7626402d2df804b98e8eb297016fcb80ef34f1f74ea257a288334e1880976c"
+    },
+    {
+     "from": "2018-10-24",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "d53759d6028a4319457b2e99d0b46390287b006259e3d14bfcbfe0e503f51683"
+    },
+    {
+     "from": "2018-11-27",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "c635c973a8b7a9d9eeabede94d2cc3e3286a26a613e5b8fe13ec3706fdd358d1"
+    },
+    {
+     "from": "2018-12-10",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "79f190c88bab7f36076baef5ac7bf2df29712cdd2df989da526dc02dedf80435"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "dd2d3ad8f34541b8bc76d4ec65d24a9da52e9e7b2b4145d66f7d90eb1dc1ee83"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "fb8a489d65d40c607b20f5c8cf298c5bf68365392e4736905dbe11f72b3c3692"
+    },
+    {
+     "from": "2018-12-26",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a9f00306a0ba9eb2d4adf1074af9be3711cac99187212f91e9d18ab71d418c3f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9c650f7157d93f5ba16e6fe0c7879354aa13ac857c736b4c2b6145e63746015e"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "28553fd023e9c0d709cc24b55accc59f4c2f2d1df192fbd68b95bb93c4bc66ff"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "07c157335ff5db290df10fafd23f106d5000ef6cb395ddf504421fb8e79ac661"
+    },
+    {
+     "from": "2019-05-13",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ec11e04f46a68a0d42f963c94874d3af430ec694b566172b054d0fb72e2989a4"
+    },
+    {
+     "from": "2019-07-03",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b40552dfbac23613d1b3e74246e942a2a6f3984fd4c010ba112e3d9902b7d53a"
+    },
+    {
+     "from": "2019-07-04",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "eccf061a697277ad6bb0fdfe3f7da99677611151d814a42ad52fc4a24e111671"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "79ce22f66fe0d32c71025a50dee925c72811a3cac0d89f2109e55841b8a60613"
+    },
+    {
+     "from": "2019-09-12",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "e0d4f5792a5199b9facdaadbf4b9d720b3d0359d8c4a4b817a96819ef3ea1c07"
+    },
+    {
+     "from": "2019-11-06",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "727fc86830b2de441e628afa106ab4e95b59417cd2f7bf33658a0a2678db9421"
+    },
+    {
+     "from": "2019-12-04",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a3aa57a553028f5a6aa89f0f4b03c78f0799194ec0f9d064d7071c8c46a5bcb7"
+    },
+    {
+     "from": "2019-12-17",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3cb17fa2afccf501088f801a58cd0d82be63c1edb5717deab03ad688c3985adb"
+    },
+    {
+     "from": "2019-12-18",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "1557539131d0f3519c27f88663ede02f7d1ef49e86ee208bdc7650cc5a44efd8"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "1265cead21b6eae42dcaf29091f643bff669fb92e0845b1da5890477ba7ddbfc"
+    },
+    {
+     "from": "2020-04-13",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "68146d07f8b0010512d6a8eac0d5de681c1ccb1d21217432ec9faac4745d9fe2"
+    },
+    {
+     "from": "2020-04-14",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "353628c7b64046d13bbd56212be29edc5e5a37e9ede578e73b0f8f2f4b2de5e7"
+    },
+    {
+     "from": "2020-04-30",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "0b6737ea0bff0185c83d623999042a2d6af3b76a5758f5a3dd749860499ac028"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "51043f065fe03a1ccce67bc62084a52d29cc8efc87f7553f8a769e4bac20437a"
+    },
+    {
+     "from": "2020-06-22",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "f853ab288e9a2316c4c11202b08058b04976cb84c909e313186499fbc0631fcd"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "8fa14ef139f895bf2c91868e152c2eb79b596ed6fcbcd740a4c94bd41d850d5e"
+    },
+    {
+     "from": "2020-09-15",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "1211cd4a5a0eb065917cbafca521efa2959446872616b6e87bdd3e5393f3b3c9"
+    },
+    {
+     "from": "2020-09-21",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ca169d59dce6363c11477484fb7c1cea8ab37b88da192793af106879c76d575c"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "d82beef340b14708c0d14edc64180da287356e35ca64b6072979e4c8051f9859"
+    },
+    {
+     "from": "2020-11-17",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "eb2688ed45d19a665ff5c5f8e9aa26ffa71a1375c718a2b95ee21498995951c6"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b44164b3f941fce626cc6f7b49ba0d79c0702d7efd6cef6d240c21e63bbbbfd7"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "01ca27efa5d4166e262b364ff5e0ad32ca468bc2404b66f694a096bfaaf449d4"
+    },
+    {
+     "from": "2020-12-25",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "de14eff94b7ff6ac18a4563b4bf366c3b4c4c5ae2264ec7320d13aaa00fae88c"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a65880117ec157644d1ac7dfc1699e0729288276da562a4e81dfd00b6603d94e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "0948461b0941d6751ca8332c6644103e96d9dca3f55f7b3d34918be173f42c34"
+    },
+    {
+     "from": "2021-03-05",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "68785c507f6b2fedb0c3fd1ffbe79dc9a49525a73674d26960280716acf92eaa"
+    },
+    {
+     "from": "2021-03-30",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "2097ff50cb522c83852170fdcbe1f6078c20675973d3398f15743c0a8b56c392"
+    },
+    {
+     "from": "2021-03-31",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "d17502071e980c7efd6f8c5872c6471d393cf243fcc78ace363f42f050241d6c"
+    },
+    {
+     "from": "2021-04-15",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "c2a989440476b0dc6ce3fbe0f35c07346c76f68097e7faca9fddfd674b8f3083"
+    },
+    {
+     "from": "2021-04-19",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "fc1a0f760c850966ae2fa57c06af7e6790975e58a4d8bc94d47023bffd68c145"
+    },
+    {
+     "from": "2021-05-28",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "cd6602886b3b51d25a3a3113def731343a628094fb4afe25d304100321ee2490"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a378a67d6be7353e2387b6a0f645c1bf7dc6f6a4b0363ad85b627fdb0d038547"
+    },
+    {
+     "from": "2021-06-17",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "7216fb63a0be0155ec00a0e8694afee155e551470f101285e218e26c05eed3d6"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "4d2bcc02e2799630ed8f8980c2d969832de10f4e2dfd8ca179b5252f7335692a"
+    },
+    {
+     "from": "2021-10-26",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ae175974feb7bdf62d8319b18a24406201ce542748e28967713c4efb0d2baf93"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "699ca14eaad368149b2c03a6ec28cae90bfc38c3b04d48a24fb66583b3d500cb"
+    },
+    {
+     "from": "2021-11-30",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b13e70cca9d73cdea8b9363d8c6dad25cef2d09a7d7cd514425e642009b375b4"
+    },
+    {
+     "from": "2021-12-14",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "f79967abd177fac06794bc2f38b98e8cf385f36feb775b22ef4c91e648c79834"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 138,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3e286b2ef2f43746ebed797c64e40075fdd96d7f26da2a7aa4031d8f505d2e6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "eae1197b1fe70ad9388c87b6d12b2bef2faacebbfbe6ff30a6ce74e0c94a8cfa"
+    },
+    {
+     "from": "2022-03-15",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "bf5def7ef6e527dd3aed6df5fe91e4efd15b82dbcddbcc0d191ba3941868c0cd"
+    },
+    {
+     "from": "2022-04-18",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "6826f7513800b68d68d29f5921cf80cf4f033fbffd59afc563533dfa89f594c1"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9982b4289f4fdf82f528f0c327ee818630ca981d2584985270c38444682d9e7c"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9b9ce9df0bd5dccbcb574e24ecf68cf63a82bf8edb62ed63c2fa4abe302e57cd"
+    },
+    {
+     "from": "2022-05-04",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "67145b5b9f31115d40d2378ea65eb62d1e751ad5cece8eae0be50f7f494599fd"
+    },
+    {
+     "from": "2022-05-06",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "12ea727090bcc0b0e459adf7884feac476fdccce73b472e25b6154426d2acf4d"
+    },
+    {
+     "from": "2022-06-23",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ba9c374d10e07f8a01cd886ec4949290509924b6e2aefc5fb3bb2084a28faa38"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "e3455ea4f8227b5b2c9e8d20f6f200ee9d801287d8b34adaf9bec5715ca159e2"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a1cb1cd2f53fa7bec10af15bd447706f49c3d5221ac8a443c7a55d356cfa1787"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "1b014440fba78e729ff5e3cb17f70d21e0ff6478aded02fdb92a5bc571e0e969"
+    },
+    {
+     "from": "2022-12-09",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3e8d82d76faf2ce517631b77d2290e11c6d3ae8c2c24fac076128b993a1c40a0"
+    },
+    {
+     "from": "2022-12-12",
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ebd8fbd9d29e1068104473d20eecd4af99c20278fb8b77201e29fa5616bf521c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9f606afd996892e9da9c0ca2615fa4aa4d4b71e4f531f5e47960bfc2117924fd"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b5a2ad61a8c108f1246574054d77fc5709563c00b9628ad1b6f0348f455749c0"
+    },
+    {
+     "from": "2023-05-04",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "90d2cff73ffbdb29ea3e32b68cf63a7ea74f1750edfec8e400ad0c8b503f88a8"
+    },
+    {
+     "from": "2023-05-10",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "514f4de5e0e0185bb06b4ab253eb4407cb80cdac920d8509c76502a6ba0dc05a"
+    },
+    {
+     "from": "2023-06-27",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "896e9d2e5664542aaff8cae6495f637f0972bb14d11596bbb64618ae561ca951"
+    },
+    {
+     "from": "2023-10-13",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3bb9ca6a0c4926f4c1f8c215734056c3560a6c7dbcb3049a01c7b249cd22a055"
+    },
+    {
+     "from": "2023-10-24",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "fd12e7a864608e4234b732a96b5428fbd86dbdc19734508bb79b64017440e4f3"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "43839495f0b9fb3867033a995ec25b0bd69221b99ebe496a49663681d1d645b0"
+    },
+    {
+     "from": "2023-11-30",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "beebcb31bf5fbb1f8b7f9ae1fdb4c9ed3f010d961361799a677c6ba9be53c065"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a0152f6caed124d148661bd60b94c038bcf57040942e7a85599fb5ad3067118a"
+    },
+    {
+     "from": "2023-12-14",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "4d104ea4864655b6c429969ce7441feb912ba8bb3dec13d5ffa0721474eb784e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ecc502fe13558361093b2251ec5b03c762c337aa463b6f6d82eb908b1123ac9f"
+    },
+    {
+     "from": "2024-05-07",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "6e2ac6632292b4cba81f0495e9894a5a77cc4b6fdc200ed7b50d9236206eb717"
+    },
+    {
+     "from": "2024-05-17",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "fd618c276e48f0aed034ce57e107bcddc3a1339fbdf7bad0919d11f8fc6fd83c"
+    },
+    {
+     "from": "2024-05-21",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "14ef3929eb2c3290ec7a00202b4add7995b1947645f0403c439bea0870574799"
+    },
+    {
+     "from": "2024-06-11",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "366eda4c333b0c61394ec5640f83b98124a0888a55278e5f1f297c5c89aa8044"
+    },
+    {
+     "from": "2024-06-19",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "440bd71bac7d50ecb2bc511631f40ff88086ad006bfd59deb5b356e46dd922d9"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "754312c89ada5351093e11c06fe1d3951136c4f8d20c24e8e59f66bfd8a8043f"
+    },
+    {
+     "from": "2024-11-11",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "3e9c5124462641e7e56b8afbc71addd1413630eb2c5a6a2a426c70c31dbf6730"
+    },
+    {
+     "from": "2024-11-27",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "65caf92a9f03dc7e7365934dc805c4e654cf92cc68ce38d562f69cc8275c382d"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "5eea9ebf76c8574f04f96c440d8348256a0bcccff724adc4b5968175bd7bcc03"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "e50830aeca9cd43edbb60c1aed818a12d95fb6c9c150ff9921440b5f09839b9f"
+    },
+    {
+     "from": "2024-12-19",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "5ea27e05d81c28c638317ae5b86a9c296e88b393de2d3f5b7b03c095fe7a6241"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "36d76ff682551eb50b3e7442375feed62ab8c1b9cffd6b13d6615c8ba05f559d"
+    },
+    {
+     "from": "2025-05-16",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "9afb9ed73a0b44e3d86485db931f62b4e090d3b7d1f6dd5711280c8c4ea98568"
+    },
+    {
+     "from": "2025-06-11",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "afa67681fbf6f9a9b4adc15a9b158a774f16f92a9ad4a5a04146dded7c31a183"
+    },
+    {
+     "from": "2025-06-25",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "89baaa9cd76b983f07b335e545c5dbb9fc0c6cc769d350f4af6af39698f56e2f"
+    },
+    {
+     "from": "2025-07-02",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "41e5bbd35560834377127eb1d238676fa1bb3805c3a3bd5e1c549b018c36874c"
+    },
+    {
+     "from": "2025-11-07",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "1261398679c6dc8ec86f692a8c449b3ff66d65640c837be485b8ecb43095941f"
+    },
+    {
+     "from": "2025-11-11",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a50bcd3bbd5f1e8066ab562695decd1464f70162341d1895cfce35d691b066b3"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "a62afb69f927b0ed092847e7bdf39cfd8871ef643abed0b2ed06a6c172158172"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "10d0888c7f6f2a712cf92291ac48b7b35c1236fad51dad3baf7820c18c5ef127"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "fc527c3f76b686c2022783e959bc3d2f051fbb454c31e71809ab102d604e1ec8"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "ca09389b45b71ffe33d2ff50261bfc4feeb03b3b3eabac26f9a4eb1d966b84d2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Sakha Republic (Yakutia): catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region14",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "5ea32b13719fba15964acc13406af9705926074aa6e059b63ac1766a171c63e7"
+    },
+    {
+     "from": "2026-04-14",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "dd10a13bbc75c85aca9e2f3d7d59922cfe4c7f5129fd9dd3d19ec035f660c3ad"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "55ce8e3a2600e858f57240fbf11cdd8daa5c158f40aabebf58323067fcccce88"
+    },
+    {
+     "from": "2026-07-07",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "b58a6206086bc3ef5655e2b73b848ce5ae16a1df7c5efc346c0e83d70d70f473"
+    },
+    {
+     "from": "2026-07-08",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region14",
+     "sha256": "330b0947dcb34be414044035092eb97fd78b86c99165c641beb15bd67bc423cd"
+    }
+   ]
+  }
+ ]
+}
