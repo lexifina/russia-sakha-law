@@ -1,0 +1,122 @@
+{
+ "generated": "2026-11-24T14:49:56Z",
+ "latest": {
+  "pravo-sakha|russia/sakha/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1486,
+    "current": 1466,
+    "gone": 0,
+    "held": 1466,
+    "newest_in_repo": "2026-07-08",
+    "pending": 20,
+    "repo": 1466,
+    "source_in_scope": 1486
+   },
+   "check_id": "ru-pravo-sakha-20261124T144142Z",
+   "commits": {
+    "count": 2,
+    "from": "01193d0fc258dc71b2c0c6b23a4e1cc19f0a3901",
+    "to": "89824883786bd80122134fd9d3332cc4e116003b"
+   },
+   "corpus": "russia/sakha/acts",
+   "error": null,
+   "finished": "2026-11-24T14:49:55Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region14: 1486 law-type documents listed (every page read); 1466 held here; 20 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "1400202611100001",
+     "1400202611100002",
+     "1400202611100003",
+     "1400202611100004",
+     "1400202611100005",
+     "1400202611100006",
+     "1400202611100007",
+     "1400202611100008",
+     "1400202611100009",
+     "1400202611100010",
+     "1400202611100011",
+     "1400202611100012",
+     "1400202611100013",
+     "1400202611100014",
+     "1400202611100015",
+     "1400202611100016",
+     "1400202611100017",
+     "1400202611100018",
+     "1400202611100019",
+     "1400202611100020"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 12,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "1400202611100001",
+     "1400202611100002",
+     "1400202611100003",
+     "1400202611100004",
+     "1400202611100005",
+     "1400202611100006",
+     "1400202611100007",
+     "1400202611100008",
+     "1400202611100009",
+     "1400202611100010",
+     "1400202611100011",
+     "1400202611100012",
+     "1400202611100013",
+     "1400202611100014",
+     "1400202611100015",
+     "1400202611100016",
+     "1400202611100017",
+     "1400202611100018",
+     "1400202611100019",
+     "1400202611100020"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1486 law-type documents in block region14; newest published 2026-11-10",
+   "source": "pravo-sakha",
+   "started": "2026-11-24T14:41:42Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 150,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
