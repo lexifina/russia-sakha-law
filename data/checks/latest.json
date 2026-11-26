@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:02:22Z",
+ "generated": "2026-11-26T06:19:31Z",
  "latest": {
   "pravo-sakha|russia/sakha/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1486,
     "source_in_scope": 1486
    },
-   "check_id": "ru-pravo-sakha-20261125T063059Z",
+   "check_id": "ru-pravo-sakha-20261126T055556Z",
    "commits": null,
    "corpus": "russia/sakha/acts",
    "error": null,
-   "finished": "2026-11-25T06:31:38Z",
+   "finished": "2026-11-26T05:56:35Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region14: 1486 law-type documents listed (every page read); 1486 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1486 law-type documents in block region14; newest published 2026-11-10",
    "source": "pravo-sakha",
-   "started": "2026-11-25T06:30:59Z",
+   "started": "2026-11-26T05:55:56Z",
    "unexplained": 0,
    "update": {
     "parts": []
