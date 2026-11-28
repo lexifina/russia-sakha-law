@@ -1,6 +1,6 @@
 # Sakha Republic (Yakutia): catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 6 versions, from 2026-03-17 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region14>
+Законы 2026 · 7 versions, from 2026-03-17 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region14>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -77,3 +77,4 @@
 | Закон № 2991-З № 657-VII | [2991-z-657-vii.md](2991-z-657-vii.md) | 1 | 2026-11-10 |
 | Закон № 2992-З № 659-VII | [2992-z-659-vii.md](2992-z-659-vii.md) | 1 | 2026-11-10 |
 | Закон № 2993-З № 661-VII | [2993-z-661-vii.md](2993-z-661-vii.md) | 1 | 2026-11-10 |
+| Закон № 2994-З № 709-VII | [2994-z-709-vii.md](2994-z-709-vii.md) | 1 | 2026-11-27 |
